@@ -3,7 +3,7 @@
 """
 
 import sys
-sys.setrecursionlimit(10**6)
+sys.setrecursionlimit(10**5+1)
 input = sys.stdin.readline
 
 n = int(input())
